@@ -1,0 +1,17 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Greet API</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <div class="heading">
+        <h1>This is simple Greet API</h1>
+        <h5>Once you click on the button below you will get greet messgae as a JSON responce !! </h5>
+    </div>
+    <div class="btn">
+        <a href="{{ url_for('greet') }}"><button type="button">Click Here</button></a>
+    </div>
+</body>
+</html>

@@ -1,0 +1,17 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JSON Data</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <div class="heading">
+        <h1>This is simple API returing JSON Data</h1>
+        <h5>Once you click on the button below you will get a JSON responce !! </h5>
+    </div>
+    <div class="btn">
+        <a href="{{ url_for('get_data') }}"><button type="button">Click Here</button></a>
+    </div>
+</body>
+</html>
