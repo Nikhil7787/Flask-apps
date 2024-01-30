@@ -26,4 +26,9 @@ This is a simple e-commerce web application built using Flask. The application a
 
 ## Home Page 
 
+![image](https://github.com/Nikhil7787/Flask-apps/assets/123885552/b16a7dcf-b94d-469a-9281-74feb9c4f8ad)
+
+
 ## Cart Page
+
+![image](https://github.com/Nikhil7787/Flask-apps/assets/123885552/54f019fc-9512-462f-91dd-0457f418e8d8)
