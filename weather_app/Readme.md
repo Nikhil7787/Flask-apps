@@ -15,6 +15,8 @@ This is a simple weather web application built using Flask. The application allo
 
 ## Screenshots
 
+![image](https://github.com/Nikhil7787/Flask-apps/assets/123885552/226c21a6-8900-4d04-9051-142673de9118)
+
 
 
 ## Usage
