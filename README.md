@@ -1,2 +1,2 @@
-# Flask-apps
-Flask app's to showcase Skill's
+# Flask
+Flask Based applications to showcase Skill's
